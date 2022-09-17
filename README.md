@@ -7,13 +7,8 @@ I’m a aspiring Software Developer and a Competitive Programmer. I'm currently 
 
 
 <!-- ## 📕 Deployed Projects 
-- [Video Chat App](https://v-meet-puneet.netlify.app)
-- [Memories: MERN App](https://memories-puneet.netlify.app)
-- [JWT Authentication](https://jwt-auth-puneet.netlify.app)
-- [Keeper App](https://notekeeper-puneet.netlify.app)
-- [Multi-page Bootstrap Website](https://puneet-goel.github.io/bootstrap-website) 
-- [Countries Api DashBoard: React](https://countries-puneet.netlify.app)
-- [React Restaurant App](https://restaurant-puneet.netlify.app) 
+- [Virtual Queue App](https://play.google.com/store/apps/details?id=com.virtualqueue.app)
+- [Chat App](https://shubhamgarg-chat-app.herokuapp.com/)
 
 <br />
  -->
