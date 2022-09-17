@@ -6,12 +6,12 @@
 I’m a aspiring Software Developer and a Competitive Programmer. I'm currently pursuing my B.Tech in Information Technology from USICT, GGSIPU (2019-2023). You can check my [Resume](https://cutt.ly/shubham-resume) for more details about my achievements. I’m currently looking for new opportunities. 
 
 
-<!-- ## 📕 Deployed Projects 
+## 📕 Deployed Projects 
 - [Virtual Queue App](https://play.google.com/store/apps/details?id=com.virtualqueue.app)
 - [Chat App](https://shubhamgarg-chat-app.herokuapp.com/)
 
 <br />
- -->
+
 
 ## Get in Touch
 <a href="https://www.linkedin.com/in/shubhamgarg1671/">
