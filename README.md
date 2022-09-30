@@ -21,7 +21,7 @@ I’m a aspiring Software Developer and a Competitive Programmer. I'm currently 
   <img align="left" width="26px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"/>
 </a>
 <a href="https://www.codechef.com/users/shubhamgarg16">
-<img align="left" width="26px" src="	https://cdn-icons-png.flaticon.com/512/2111/2111628.png"/>
+<img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"/>
 </a>
 
 <br />
