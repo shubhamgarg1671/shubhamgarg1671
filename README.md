@@ -9,6 +9,7 @@ I’m a aspiring Software Developer and a Competitive Programmer. I'm currently 
 ## 📕 Deployed Projects 
 - [Virtual Queue App](https://play.google.com/store/apps/details?id=com.virtualqueue.app)
 - [Chat App](https://shubhamgarg-chat-app.herokuapp.com/)
+- [Rider App](https://play.google.com/store/apps/details?id=com.checkmed.rider)
 
 <br />
 
