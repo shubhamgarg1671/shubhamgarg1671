@@ -10,6 +10,7 @@ I’m a aspiring Software Developer and a Competitive Programmer. I'm currently 
 - [Virtual Queue App](https://play.google.com/store/apps/details?id=com.virtualqueue.app)
 - [Chat App](https://shubhamgarg-chat-app.herokuapp.com/)
 - [Rider App](https://play.google.com/store/apps/details?id=com.checkmed.rider)
+- [Calculator](https://shubhamgarg-calculator.herokuapp.com/)
 
 <br />
 
