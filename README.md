@@ -12,8 +12,15 @@ I’m a aspiring Software Developer and a Competitive Programmer. I'm currently 
 - [Rider App](https://play.google.com/store/apps/details?id=com.checkmed.rider)
 - [Calculator](https://shubhamgarg-calculator.herokuapp.com/)
 
-<br />
+<br/>
+## 💻 Skills
 
+- **Languages:** C++, Java, Python
+- **Web Development:** HTML, CSS, JavaScript, React
+- **Mobile App Development:** React Native
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, VSCode, Docker
+<br/>
 
 ## Get in Touch
 <a href="https://www.linkedin.com/in/shubhamgarg1671/">
