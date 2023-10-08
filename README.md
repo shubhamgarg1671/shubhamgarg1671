@@ -16,11 +16,11 @@ I’m an aspiring Software Developer and a Competitive Programmer. I'm currently
 
 ## 💻 Skills
 
-- **Languages:** C++, Java, Python
-- **Web Development:** HTML, CSS, JavaScript, React
-- **Mobile App Development:** React Native
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, VSCode, Docker
+- **Languages:** C++, Golang, Python
+- **Web Development:** HTML, CSS, JavaScript, Go Gin
+- **Mobile App Development:** Android kotlin
+- **Databases:** Postgresql, MongoDB
+- **Tools:** Git, VSCode, 
 <br/>
 
 ## GitHub Stats
