@@ -2,9 +2,8 @@
 **shubhamgarg1671/shubhamgarg1671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi 👋 , I'm [Shubham Garg](https://www.linkedin.com/in/shubhamgarg1671/) !
-I’m an aspiring Software Developer and a Competitive Programmer. I'm currently pursuing my B. Tech in Information Technology from USICT, GGSIPU (2019-2023). You can check my [Resume](https://cutt.ly/shubham-resume) for more details about my achievements. I’m currently looking for new opportunities. 
-
+## Hi 👋 , I'm [Shubham Garg](https://www.linkedin.com/in/shubhamgarg1671/) !
+Passionate software developer specializing in backend technologies. B.Tech in Information Technology from USICT, GGSIPU (2019-2023). Currently shaping digital solutions at Busy Infotech Pvt. Ltd. Proficient in Golang and PostgreSQL. You can check my [Resume](https://cutt.ly/shubham-resume) for more details about my achievements. Let's code something amazing together! 💻🚀
 
 ## 📕 Deployed Projects 
 - [Virtual Queue App](https://play.google.com/store/apps/details?id=com.virtualqueue.app)
@@ -18,9 +17,9 @@ I’m an aspiring Software Developer and a Competitive Programmer. I'm currently
 
 - **Languages:** C++, Golang, Python
 - **Web Development:** HTML, CSS, JavaScript, Go Gin
-- **Operating System:** Ubuntu, Microsoft Windows
 - **Databases:** Postgresql, MongoDB
 - **Tools:** Git, VSCode, Firebase
+- **Operating System:** Ubuntu, Microsoft Windows
 <br/>
 
 ## GitHub Stats
