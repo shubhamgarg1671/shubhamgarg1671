@@ -16,9 +16,9 @@ Passionate software developer specializing in backend technologies. B.Tech in In
 ## 💻 Skills
 
 - **Languages:** C++, Golang, Python
-- **Web Development:** HTML, CSS, JavaScript, Go Gin
+- **Web Development:**  Go Gin, GORM
 - **Databases:** Postgresql, MongoDB
-- **Tools:** Git, VSCode, Firebase
+- **Tools:** Git, VSCode, Postman, dbeaver
 - **Operating System:** Ubuntu, Microsoft Windows
 <br/>
 
