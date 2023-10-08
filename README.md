@@ -23,6 +23,10 @@ I’m an aspiring Software Developer and a Competitive Programmer. I'm currently
 - **Tools:** Git, VSCode, Docker
 <br/>
 
+## GitHub Stats
+
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamgarg1671&show_icons=true&theme=radical)
+
 ## Get in Touch
 <a href="https://www.linkedin.com/in/shubhamgarg1671/">
   <img align="left" width="24px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>
