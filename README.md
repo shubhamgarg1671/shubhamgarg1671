@@ -2,7 +2,7 @@
 **shubhamgarg1671/shubhamgarg1671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px" height="20px"> , I'm [Shubham Garg](https://www.linkedin.com/in/shubhamgarg1671/) !
+### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px"> , I'm [Shubham Garg](https://www.linkedin.com/in/shubhamgarg1671/) !
 I’m an aspiring Software Developer and a Competitive Programmer. I'm currently pursuing my B. Tech in Information Technology from USICT, GGSIPU (2019-2023). You can check my [Resume](https://cutt.ly/shubham-resume) for more details about my achievements. I’m currently looking for new opportunities. 
 
 
