@@ -18,9 +18,9 @@ I’m an aspiring Software Developer and a Competitive Programmer. I'm currently
 
 - **Languages:** C++, Golang, Python
 - **Web Development:** HTML, CSS, JavaScript, Go Gin
-- **Mobile App Development:** Android kotlin
+- **Operating System:** Ubuntu, Microsoft Windows
 - **Databases:** Postgresql, MongoDB
-- **Tools:** Git, VSCode, 
+- **Tools:** Git, VSCode, Firebase
 <br/>
 
 ## GitHub Stats
