@@ -5,11 +5,13 @@
 ## Hi 👋 , I'm [Shubham Garg](https://www.linkedin.com/in/shubhamgarg1671/) !
 Passionate software developer specializing in backend technologies. B.Tech in Information Technology from USICT, GGSIPU (2019-2023). Currently shaping digital solutions at Busy Infotech Pvt. Ltd. Proficient in Golang and PostgreSQL. You can check my [Resume](https://cutt.ly/shubham-resume) for more details about my achievements. Let's code something amazing together! 💻🚀
 
+<!--
 ## 📕 Deployed Projects 
 - [Virtual Queue App](https://play.google.com/store/apps/details?id=com.virtualqueue.app)
 - [Chat App](https://shubhamgarg-chat-app.herokuapp.com/)
 - [Rider App](https://play.google.com/store/apps/details?id=com.checkmed.rider)
 - [Calculator](https://shubhamgarg-calculator.herokuapp.com/)
+-->
 
 <br/>
 
